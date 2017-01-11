@@ -1,7 +1,7 @@
 # Python-Projects
 This contains various projects on Python which i made when i was learning it.
 
-#This project is on how to make a movie website which shows its poster and show its trailer when you click on poster.  
+#This project is on how to make a movie website which shows its poster and show its trailer when you click on its poster.  
 
 import fresh_tomatoes
 import movies
